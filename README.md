@@ -8,7 +8,7 @@ According to Center for Disease Control and Prevention(CDC), A stroke, sometimes
 This project is aimed at predicting whether a patient will have stroke or not using 3 different machine learning algorithms, and determining which of the algorithms is most accurate for the prediction. This prediction will help the patients in taking measures that will enable them to avert the future risk of getting stroke, esepecially as it entails working in regards to the interractions between causal factors, predisposing factors and unhealthy lifestyles that can lead to stroke.
 
 **SOURCE OF THE DATASET USED:**
-The dataset used for this project is available on Kaggel, and contains medicals records and important features needed to make predictions which will aid in making the right predictions.
+The dataset used for this project is available on Kaggel, and contains medicals records and important features needed to build models which will be employed in making the right predictions.
 
 **FEATURES(DATA DICTIONARY):**
 1) id: unique identifier
